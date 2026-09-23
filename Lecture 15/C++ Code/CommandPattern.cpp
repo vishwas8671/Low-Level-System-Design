@@ -9,6 +9,7 @@ public:
     virtual ~Command() {}
 };
 
+
 // Receivers
 class Light {
 public:
